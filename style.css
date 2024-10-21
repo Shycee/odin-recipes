@@ -1,0 +1,35 @@
+h1 {
+    color: salmon;
+    box-sizing: border-box;
+    border: dotted;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 5px;
+    width: 208px;
+    height: 55px;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 0;
+    padding-top: 5px;
+    padding-bottom: 20px; 
+
+}
+
+.link {
+    color: darkcyan;
+}
+
+.link1 {
+    color: darkslateblue;
+}
+
+.link2 {
+    color: darkorchid;
+}
+
+.linkstyle {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    font-size: 20px;
+}
